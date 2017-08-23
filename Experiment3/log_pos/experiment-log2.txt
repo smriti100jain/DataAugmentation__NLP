@@ -1,0 +1,26 @@
+pre-training...
+0 test_loss : 6.79407 train_loss : 6.00637per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+5 test_loss : 6.86404 train_loss : 4.57176per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+10 test_loss : 7.16607 train_loss : 3.79088per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+15 test_loss : 7.41795 train_loss : 3.17101per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+20 test_loss : 7.66313 train_loss : 2.69955per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+25 test_loss : 7.91028 train_loss : 2.30012per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+30 test_loss : 8.29083 train_loss : 1.95589per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+35 test_loss : 8.5835 train_loss : 1.68384per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+40 test_loss : 8.89493 train_loss : 1.45475per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+45 test_loss : 9.21669 train_loss : 1.242per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+50 test_loss : 9.52942 train_loss : 1.07399per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+55 test_loss : 9.82659 train_loss : 0.942306per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+59 testloss : 10.0622 trainloss : 0.861151
+Reinforcement Training...
+99 test_loss : 10.0757 train_loss : 0.861683per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 10.1767 train_loss : 0.920062per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 10.3283 train_loss : 1.05711per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 10.5164 train_loss : 1.24896per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 10.7102 train_loss : 1.45566per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 10.8851 train_loss : 1.64067per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 11.0243 train_loss : 1.7866per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 11.1331 train_loss : 1.90257per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 11.2219 train_loss : 2.00185per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 11.2947 train_loss : 2.08514per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
+99 test_loss : 11.3462 train_loss : 2.14323per_di : 0per_quad : 0per_tri0per_di : 0per_quad : 0per_tri0
